@@ -1,0 +1,227 @@
+[
+  {
+    "_id": "5b13c6c7123a4ffe8e5ff5e1",
+    "index": 0,
+    "guid": "fb21707f-9b32-429d-961e-aa5ac07f0d5f",
+    "isActive": true,
+    "balance": "$3,358.12",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "green",
+    "name": "Nannie Noel",
+    "gender": "female",
+    "company": "CEDWARD",
+    "email": "nannienoel@cedward.com",
+    "phone": "+1 (855) 472-3380",
+    "address": "217 Logan Street, Libertytown, Montana, 8118",
+    "about": "Voluptate est reprehenderit eiusmod ipsum duis nulla culpa. Officia aliqua do et in qui cupidatat voluptate dolor irure voluptate ipsum magna ipsum duis. Nostrud et ea nisi ex incididunt nisi reprehenderit consequat enim anim eu amet ea sunt.\r\n",
+    "registered": "2016-10-16T02:09:19 -02:00",
+    "latitude": 29.728127,
+    "longitude": 77.315526,
+    "tags": [
+      "ex",
+      "aliqua",
+      "sunt",
+      "aute",
+      "consequat",
+      "non",
+      "consectetur"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Maude Brown"
+      },
+      {
+        "id": 1,
+        "name": "Higgins Barron"
+      },
+      {
+        "id": 2,
+        "name": "Silvia Ball"
+      }
+    ],
+    "greeting": "Hello, Nannie Noel! You have 7 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5b13c6c77350b8b995ab6157",
+    "index": 1,
+    "guid": "0120ed34-93aa-46e7-9db1-fba541843862",
+    "isActive": true,
+    "balance": "$2,760.24",
+    "picture": "http://placehold.it/32x32",
+    "age": 30,
+    "eyeColor": "green",
+    "name": "Bell Cohen",
+    "gender": "male",
+    "company": "MOBILDATA",
+    "email": "bellcohen@mobildata.com",
+    "phone": "+1 (807) 418-3225",
+    "address": "331 Middagh Street, Callaghan, Idaho, 1786",
+    "about": "Qui aliqua anim aute tempor in est cillum irure duis est id dolor occaecat. Amet magna labore sunt mollit ut duis dolor anim occaecat est pariatur quis. Adipisicing deserunt id id amet cillum consectetur. Adipisicing reprehenderit veniam laboris nisi qui adipisicing non in cupidatat sunt adipisicing laborum. Tempor consequat voluptate duis ea consectetur. Laborum sit dolore est amet.\r\n",
+    "registered": "2016-02-10T07:14:54 -01:00",
+    "latitude": -81.339699,
+    "longitude": -2.783071,
+    "tags": [
+      "aute",
+      "enim",
+      "ea",
+      "aliquip",
+      "qui",
+      "laboris",
+      "ullamco"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Aurora Ingram"
+      },
+      {
+        "id": 1,
+        "name": "Kaitlin Flynn"
+      },
+      {
+        "id": 2,
+        "name": "Colon Frost"
+      }
+    ],
+    "greeting": "Hello, Bell Cohen! You have 1 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5b13c6c7abf36e6081024c5c",
+    "index": 2,
+    "guid": "f7fea669-1cba-48e6-be2c-bdcaf26583ba",
+    "isActive": true,
+    "balance": "$3,346.82",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "blue",
+    "name": "Cooley Hughes",
+    "gender": "male",
+    "company": "ELITA",
+    "email": "cooleyhughes@elita.com",
+    "phone": "+1 (942) 599-3505",
+    "address": "572 Lawn Court, Blodgett, Wisconsin, 5349",
+    "about": "Irure dolore aliqua eiusmod aliqua officia nostrud laboris ut enim minim. Est occaecat aute excepteur ut ipsum do enim laborum labore sunt ex. Deserunt consequat incididunt ullamco reprehenderit fugiat ex irure esse eu occaecat elit deserunt.\r\n",
+    "registered": "2014-11-25T09:17:20 -01:00",
+    "latitude": 51.679926,
+    "longitude": -22.884684,
+    "tags": [
+      "pariatur",
+      "irure",
+      "officia",
+      "ut",
+      "voluptate",
+      "aliquip",
+      "minim"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Jerri Thomas"
+      },
+      {
+        "id": 1,
+        "name": "Kerr Sutton"
+      },
+      {
+        "id": 2,
+        "name": "Nash Mcintosh"
+      }
+    ],
+    "greeting": "Hello, Cooley Hughes! You have 8 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5b13c6c78b51da83939c8e41",
+    "index": 3,
+    "guid": "4841714a-c534-4125-871b-118fa70a968c",
+    "isActive": false,
+    "balance": "$2,098.52",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "blue",
+    "name": "Frankie Mullen",
+    "gender": "female",
+    "company": "INFOTRIPS",
+    "email": "frankiemullen@infotrips.com",
+    "phone": "+1 (866) 515-3421",
+    "address": "669 Clove Road, Lithium, Puerto Rico, 6972",
+    "about": "Do ipsum ea sunt consequat adipisicing tempor consequat qui voluptate. Id cillum reprehenderit eiusmod consectetur sit reprehenderit commodo Lorem adipisicing sit ipsum minim. Ullamco aliqua officia nostrud consequat est. Exercitation duis veniam id aliquip tempor dolor laborum cillum excepteur duis magna id.\r\n",
+    "registered": "2014-01-04T08:51:05 -01:00",
+    "latitude": 35.426394,
+    "longitude": -128.826452,
+    "tags": [
+      "anim",
+      "quis",
+      "excepteur",
+      "eiusmod",
+      "esse",
+      "cillum",
+      "officia"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Evelyn Alston"
+      },
+      {
+        "id": 1,
+        "name": "Etta Holcomb"
+      },
+      {
+        "id": 2,
+        "name": "Ericka Gentry"
+      }
+    ],
+    "greeting": "Hello, Frankie Mullen! You have 10 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5b13c6c7368daf83099e65a6",
+    "index": 4,
+    "guid": "ddf37e1b-33c3-4d17-a873-a9b7ff928016",
+    "isActive": false,
+    "balance": "$3,618.07",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "eyeColor": "brown",
+    "name": "Bonita Spears",
+    "gender": "female",
+    "company": "ACIUM",
+    "email": "bonitaspears@acium.com",
+    "phone": "+1 (884) 534-3949",
+    "address": "630 Kiely Place, Sussex, Guam, 4992",
+    "about": "Quis amet deserunt dolore voluptate dolore aliqua. Proident ullamco eu eiusmod est velit aute veniam dolor fugiat enim velit minim. Fugiat nulla proident eu dolor quis elit consectetur magna occaecat magna. Dolor consectetur do ullamco eu aliqua adipisicing est tempor aliquip eiusmod anim. Lorem qui consequat ea labore amet id velit nulla id sunt commodo. Magna ad velit duis ipsum nisi esse veniam magna incididunt. Magna veniam ea in deserunt quis ex dolore ullamco mollit eiusmod labore labore est.\r\n",
+    "registered": "2016-08-30T02:59:33 -02:00",
+    "latitude": -64.40486,
+    "longitude": 74.97444,
+    "tags": [
+      "incididunt",
+      "sint",
+      "Lorem",
+      "ut",
+      "id",
+      "laboris",
+      "adipisicing"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Torres Stuart"
+      },
+      {
+        "id": 1,
+        "name": "Fern Fernandez"
+      },
+      {
+        "id": 2,
+        "name": "Carla Espinoza"
+      }
+    ],
+    "greeting": "Hello, Bonita Spears! You have 6 unread messages.",
+    "favoriteFruit": "strawberry"
+  }
+]
